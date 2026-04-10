@@ -1,4 +1,3 @@
-
 import streamlit as st
 import google.generativeai as genai  # 두 번째 줄, 다시 확실히 잡았습니다!
 
